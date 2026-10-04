@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-04T17:37+03:00",
+ "generated": "2026-10-04T18:10+03:00",
  "sources": {
   "GAA": {
-   "ok": true,
-   "count": 3447
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='gaa.go.ke', port=443): Max retries exceeded with url: /index.php/all-tenders?page=2 (Caused by ConnectTimeoutError(<HTTPSConnection(host='gaa.go.ke', port=443) at 0x7f1f434aa690>, 'Connection to gaa.go.ke timed out. (connect timeout=45)'))"
   }
  },
  "tenders": [
