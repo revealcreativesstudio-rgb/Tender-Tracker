@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-09T06:10+03:00",
+ "generated": "2026-10-10T06:09+03:00",
  "sources": {
   "GAA": {
-   "ok": false,
-   "error": "500 Server Error: Internal Server Error for url: https://gaa.go.ke/index.php/all-tenders?page=1"
+   "ok": true,
+   "count": 3516
   }
  },
  "tenders": [
@@ -419,6 +419,21 @@
    "first_seen": "2026-10-07"
   },
   {
+   "id": "GAA-c28755a3",
+   "title": "Kenya Medical Supplies Authority (KEMSA) Invitation to Tender",
+   "entity": "Kenya Medical Supplies Authority (KEMSA)",
+   "el": "Unknown",
+   "close": "2026-10-13T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Kenya%20Medical%20Supplies%20Authority%20%28KEMSA%29%20.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-10"
+  },
+  {
    "id": "GAA-f96d0c84",
    "title": "National Government Affirmative Action Fund Tender Notice",
    "entity": "National Government Affirmative Action Fund",
@@ -492,6 +507,67 @@
    "first_seen": "2026-10-07"
   },
   {
+   "id": "GAA-ee96cc65",
+   "title": "Nuclear Power and Energy Agency Invitation to Tender for Supply and Delivery of Utility Passenger Motor Vehicle",
+   "entity": "Nuclear Power and Energy Agency (NuPEA)",
+   "el": "Unknown",
+   "close": "2026-10-21T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Nuclear%20Power%20and%20Energy%20Agency%20Invitation%20to%20Tender%20for%20Supply%20and%20Delivery%20of%20Utility%20Passenger%20Motor%20Vehicle.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-10"
+  },
+  {
+   "id": "GAA-bd9de267",
+   "title": "KRA Open Tender For Provision Of Fund Management Services",
+   "entity": "Kenya Revenue Authority (KRA)",
+   "el": "Unknown",
+   "close": "2026-10-21T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/KRA%20Open%20Tender%20For%20Provision%20Of%20Fund%20Management%20Services.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-10"
+  },
+  {
+   "id": "GAA-bcac6879",
+   "title": "Kenya Forest Service Registration Of Suppliers & Service Providers For 2026/2027 – 2027/2028 Financial Years",
+   "entity": "Kenya Forest Service (KFS)",
+   "el": "Unknown",
+   "close": "2026-10-21T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Kenya%20Forest%20Service%20Registration%20Of%20Suppliers%20%26%20Service%20Providers%20For%202026%3A2027%20%E2%80%93%202027%3A2028%20Financial%20Years%20.pdf",
+   "tags": [
+    "Supplier registration",
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-10"
+  },
+  {
+   "id": "GAA-e6801897",
+   "title": "State Department For Internal Security And National Administration County Commissioner, Marsabit County Tender Notice",
+   "entity": "State Department For Internal Security And National Administration County Commissioner, Marsabit County",
+   "el": "Unknown",
+   "close": "2026-10-22T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-10/State%20Department%20For%20Internal%20Security%20And%20National%20Administration%20County%20Commissioner%2C%20Marsabit%20County.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-10"
+  },
+  {
    "id": "GAA-1fda0bbf",
    "title": "Lake Victoria South Water Works Development Agency Invitation for Pre-qualification for Construction of Dunga Water Intake, Raw Water Pumping Station, Water Treatment Plant and Associated Facilities in Kisumu, Kenya- Works Package 2 LOT 2",
    "entity": "Lake Victoria South Water Works Development Agency",
@@ -524,6 +600,22 @@
    "first_seen": "2026-10-04"
   },
   {
+   "id": "GAA-f514a4c4",
+   "title": "Kenya Railways Request For Expression Of Interest-Consulting Services Individual Consultant Selection",
+   "entity": "Kenya Railways",
+   "el": "Unknown",
+   "close": "2026-10-27T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Kenya%20Railways%20Request%20For%20Expression%20Of%20Interest-Consulting%20Services%20Individual%20Consultant%20Selection.pdf",
+   "tags": [
+    "Consultancy",
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-10"
+  },
+  {
    "id": "GAA-ea1694c8",
    "title": "ICTA Specific Procurement Notice - Request for Bids, Framework Agreement(s) for Non-Consulting",
    "entity": "Informations and Communications Technology Authority (ICTA)",
@@ -537,6 +629,21 @@
     "Closing time not stated"
    ],
    "first_seen": "2026-10-04"
+  },
+  {
+   "id": "GAA-5babd6ae",
+   "title": "State Department for Agriculture Specific Procurement Notice for Provision of Group Medical Insurance Cover for Integrated Natural Resources Management Programme (INReMP) Staff",
+   "entity": "State Department for Agriculture, Ministry of Agriculture and Livestock Development",
+   "el": "Unknown",
+   "close": "2026-11-06T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Procurement%20Notice%20for%20Provision%20of%20Group%20Medical%20Insurance%20Cover%20for%20Integrated%20Natural%20Resources%20Management%20Programme%20%28INReMP%29%20Staff.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-10"
   },
   {
    "id": "GAA-6c9d01ac",
