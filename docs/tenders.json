@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-14T06:21+03:00",
+ "generated": "2026-10-15T06:21+03:00",
  "sources": {
   "GAA": {
-   "ok": true,
-   "count": 3516
+   "ok": false,
+   "error": "500 Server Error: Internal Server Error for url: https://gaa.go.ke/index.php/all-tenders?page=1"
   }
  },
  "tenders": [
