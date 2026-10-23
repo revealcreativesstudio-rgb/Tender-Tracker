@@ -1,56 +1,12 @@
 {
- "generated": "2026-10-22T06:23+03:00",
+ "generated": "2026-10-23T11:14+03:00",
  "sources": {
   "GAA": {
    "ok": true,
-   "count": 1187
+   "count": 3570
   }
  },
  "tenders": [
-  {
-   "id": "GAA-30ffdccd",
-   "title": "KeNHA Expression of Interest for Environment and Social Safeguards Management Systems, and Development of Digitization and Automation Requirements",
-   "entity": "Kenya National Highways Authority (KeNHA)",
-   "el": "Unknown",
-   "close": "2026-09-22T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-09/KeNHA%20Expression%20of%20Interest%20for%20Environment%20and%20Social%20Safeguards%20Management%20Systems%2C%20and%20Development%20of%20Digitization%20and%20Automation%20Requirements.pdf",
-   "tags": [
-    "Consultancy",
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-04"
-  },
-  {
-   "id": "GAA-d2e1c22f",
-   "title": "The National Cancer Institute of Kenya Tender Invitation for Provision of staff pension scheme and Provision of Medical Insurance Cover",
-   "entity": "The National Cancer Institute of Kenya",
-   "el": "Unknown",
-   "close": "2026-09-22T11:30:00+03:00",
-   "time_known": true,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-09/The%20National%20Cancer%20Institute%20of%20Kenya%20Tender%20Invitation%20for%20Provision%20of%20staff%20pension%20scheme%20and%20Provision%20of%20Medical%20Insurance%20Cover.pdf",
-   "tags": [
-    "Education"
-   ],
-   "first_seen": "2026-10-04"
-  },
-  {
-   "id": "GAA-9ba18bca",
-   "title": "The Financial Inclusion Fund Invitation to National Open Tender for Management Services",
-   "entity": "The Financial Inclusion Fund",
-   "el": "Open",
-   "close": "2026-09-23T10:00:00+03:00",
-   "time_known": true,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-09/The%20Financial%20Inclusion%20Fund%20Invitation%20to%20National%20Open%20Tender%20for%20Management%20Services%20.pdf",
-   "tags": [],
-   "first_seen": "2026-10-04"
-  },
   {
    "id": "GAA-e36f741d",
    "title": "Kenya BioVax Institute Expression of Interest for Consulting Services For Stakeholder Engagement, Ecosystem Building & Strategic Communications For The Kenya Biovax Institute",
@@ -724,6 +680,21 @@
    "first_seen": "2026-10-16"
   },
   {
+   "id": "GAA-dd4f6bb0",
+   "title": "The Digital Health Agency Tender Invitation for Framework Agreement for Supplying, Installing, Testing and Commissioning of Low Earth Orbit Satellite Solution",
+   "entity": "The Digital Health Agency",
+   "el": "Unknown",
+   "close": "2026-11-02T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-10/The%20Digital%20Health%20Agency%20Tender%20Invitation%20for%20Framework%20Agreement%20for%20Supplying%2C%20Installing%2C%20Testing%20and%20Commissioning%20of%20Low%20Earth%20Orbit%20Satellite%20Solution.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "GAA-9e1715bc",
    "title": "Kenya Agricultural & Livestock Research Organization Specific Procurement Notice",
    "entity": "Kenya Agricultural & Livestock Research Organization (KALRO)",
@@ -770,6 +741,37 @@
     "Closing time not stated"
    ],
    "first_seen": "2026-10-04"
+  },
+  {
+   "id": "GAA-851631c8",
+   "title": "Affordable Housing Request for Proposal for outsourcing the Call Centre and Customer Care Services for the Affordable Housing Board.",
+   "entity": "Affordable Housing Board (AHB)",
+   "el": "Unknown",
+   "close": "2026-11-09T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Request%20for%20Proposal%20for%20outsourcing%20the%20Call%20Centre%20and%20Customer%20Care%20Services%20for%20the%20Affordable%20Housing%20Board.pdf",
+   "tags": [
+    "Consultancy",
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "GAA-ac535ec7",
+   "title": "Affordable Housing Board Invitation to Tender Bids",
+   "entity": "Affordable Housing Board (AHB)",
+   "el": "Unknown",
+   "close": "2026-11-10T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Affordable%20Housing%20Board%20Invitation%20to%20Tender%20Bids.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-23"
   },
   {
    "id": "GAA-3197fe4b",
