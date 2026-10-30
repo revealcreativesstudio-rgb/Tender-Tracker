@@ -1,29 +1,12 @@
 {
- "generated": "2026-10-29T12:19+03:00",
+ "generated": "2026-10-30T12:35+03:00",
  "sources": {
   "GAA": {
-   "ok": false,
-   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "ok": true,
+   "count": 3612
   }
  },
  "tenders": [
-  {
-   "id": "GAA-e36f741d",
-   "title": "Kenya BioVax Institute Expression of Interest for Consulting Services For Stakeholder Engagement, Ecosystem Building & Strategic Communications For The Kenya Biovax Institute",
-   "entity": "Kenya BioVax Institute Limited",
-   "el": "Unknown",
-   "close": "2026-09-30T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-09/Kenya%20BioVax%20Institute%20Expression%20of%20Interest%20for%20Consulting%20Services%20For%20Stakeholder%20Engagement%2C%20Ecosystem%20Building%20%26%20Strategic%20Communications%20For%20The%20Kenya%20Biovax%20Institute%20%20%20%20%20%20%20%20%20%20%20%20%20_0.pdf",
-   "tags": [
-    "Consultancy",
-    "Education",
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-04"
-  },
   {
    "id": "GAA-c97d3ce6",
    "title": "Kitui Water and Sanitation Company Limited National Open Tender Notice",
@@ -850,6 +833,86 @@
    "first_seen": "2026-10-06"
   },
   {
+   "id": "GAA-5fa94656",
+   "title": "State Department For Devolution EOI for Individual Consultant-Individual Consultant- Program Implementation Officer KDSP II Key Result Area 1 (Sustainable Financing and Expenditure Management)",
+   "entity": "State Department for Devolution",
+   "el": "Unknown",
+   "close": "2026-11-12T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-10/State%20Department%20For%20Devolution%20EOI%20for%20Individual%20Consultant-Individual%20Consultant-%20Program%20Implementation%20Officer%20KDSP%20II%20Key%20Result%20Area%201%20%28Sustainable%20Financing%20and%20Expenditure%20Management%29%20.pdf",
+   "tags": [
+    "Consultancy",
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "GAA-6d7aece0",
+   "title": "State Department For Devolution EOI for Individual Consultant- Program Implementation Officer KDSP II Key Result Area 2 (Intergovernmental Coordination, Institutional Performance, and Human Resource Management",
+   "entity": "State Department for Devolution",
+   "el": "Unknown",
+   "close": "2026-11-12T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-10/State%20Department%20For%20Devolution%20EOI%20for%20Individual%20Consultant-%20Program%20Implementation%20Officer%20KDSP%20II%20Key%20Result%20Area%202%20%28Intergovernmental%20Coordination%2C%20Institutional%20Performance%2C%20and%20Human%20Resource%20Management.pdf",
+   "tags": [
+    "Consultancy",
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "GAA-726fa559",
+   "title": "State Department For Devolution Request For Expression Of Interest for Individual Consultant-Program Implementation Officer KDSP II Key Result Area 3 Over- sight, Participation and Accountability",
+   "entity": "State Department for Devolution",
+   "el": "Unknown",
+   "close": "2026-11-12T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-10/State%20Department%20For%20Devolution%20Request%20For%20Expression%20Of%20Interest%20for%20Individual%20Consultant-Program%20Implementation%20Officer%20KDSP%20II%20Key%20Result%20Area%203%20Over-%20sight%2C%20Participation%20and%20Accountability.pdf",
+   "tags": [
+    "Consultancy",
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "GAA-e5d8cb4e",
+   "title": "State Department For Devolution Request For Expression Of Interest Individual Consultant Selection To Design A Model For County Assembly Fiscal Bureau And Development Of a Framework And Guidelines On County Fiscal Bureaus",
+   "entity": "State Department for Devolution",
+   "el": "Unknown",
+   "close": "2026-11-12T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-10/State%20Department%20For%20Devolution%20Request%20For%20Expression%20Of%20Interest%20Individual%20Consultant%20Selection%20To%20Design%20A%20Model%20For%20County%20Assembly%20Fiscal%20Bureau%20And%20Development%20Of%20a%20Framework%20And%20Guidelines%20On%20County%20Fiscal%20Bureaus%20.pdf",
+   "tags": [
+    "Consultancy",
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "GAA-cc326dec",
+   "title": "State Department For Devolution Request For Expression Of Interest Individual Consultant Selection To  Design And Develop A County Assembly Resolution Tracking Tool",
+   "entity": "State Department for Devolution",
+   "el": "Unknown",
+   "close": "2026-11-12T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-10/State%20Department%20For%20Devolution%20Request%20For%20Expression%20Of%20Interest%20Individual%20Consultant%20Selection%20To%20%20Design%20And%20Develop%20A%20County%20Assembly%20Resolution%20Tracking%20Tool%20.pdf",
+   "tags": [
+    "Consultancy",
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-30"
+  },
+  {
    "id": "GAA-7661fe7a",
    "title": "ICTA Specific Procurement Notice (SPN) Request for Bids Supply, Delivery, Installation and Commissioning of 300 Public Wifi Hots Spot",
    "entity": "Informations and Communications Technology Authority (ICTA)",
@@ -894,6 +957,21 @@
     "Closing time not stated"
    ],
    "first_seen": "2026-10-16"
+  },
+  {
+   "id": "GAA-7a3397a0",
+   "title": "Ministry Of Water, Sanitation And Irrigation, Athi Water Works Development Agency Invitation For Bids For Construction Works For Northern Collector Tunnel Last Mile Water Supply Works",
+   "entity": "Ministry Of Water, Sanitation And Irrigation Athi Water Works Development Agency (AWWDA)",
+   "el": "Unknown",
+   "close": "2027-01-12T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Athi%20Water%20Works%20Development%20Agency%20Invitation%20For%20Bids%20For%20Construction%20Works%20For%20Northern%20Collector%20Tunnel%20Last%20Mile%20Water%20Supply%20Works%20.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-10-30"
   }
  ]
 }
