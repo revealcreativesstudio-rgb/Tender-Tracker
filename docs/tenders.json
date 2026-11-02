@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-01T13:03+03:00",
+ "generated": "2026-11-02T13:31+03:00",
  "sources": {
   "GAA": {
-   "ok": true,
-   "count": 3612
+   "ok": false,
+   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   }
  },
  "tenders": [
