@@ -1,89 +1,12 @@
 {
- "generated": "2026-11-05T13:19+03:00",
+ "generated": "2026-11-06T13:22+03:00",
  "sources": {
   "GAA": {
-   "ok": false,
-   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "ok": true,
+   "count": 3612
   }
  },
  "tenders": [
-  {
-   "id": "GAA-c0b6909f",
-   "title": "Central Rift Valley Water Works Development Agency EOI for Consultancy Services Environmental And Social Safeguards Completion Audit",
-   "entity": "Central Rift Valley Water Works Development Agency (CRVWWDA)",
-   "el": "Unknown",
-   "close": "2026-10-07T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Central%20Rift%20Valley%20Water%20Works%20Development%20Agency%20EOI%20for%20Consultancy%20Services%20Environmental%20And%20Social%20Safeguards%20Completion%20Audit%20.pdf",
-   "tags": [
-    "Consultancy",
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-06"
-  },
-  {
-   "id": "GAA-6b315e8b",
-   "title": "Tender Advertisement For Disposal Of Bonded Items for The Deputy County Commissioner-Lamu West",
-   "entity": "The Deputy County Commissioner-Lamu West",
-   "el": "Unknown",
-   "close": "2026-10-07T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-09/Tender%20Adverticement%20For%20Disposal%20Of%20Bonded%20Items%20for%20The%20Deputy%20County%20Commissioner-Lamu%20West.pdf",
-   "tags": [
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-04"
-  },
-  {
-   "id": "GAA-23a98a2c",
-   "title": "Request for Expression of Interest for Consultancy Services For Environmental And Social Safeguards Completion Audit For The Kenya Towns Sustainable Water Supply And Sanitation Program-Central Rift Valley Cluster",
-   "entity": "Central Rift Valley Water Works Development Agency (CRVWWDA)",
-   "el": "Unknown",
-   "close": "2026-10-07T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-09/Request%20for%20Expression%20of%20Interest%20for%20Consultancy%20Services%20For%20Environmental%20And%20Social%20Safeguards%20Completion%20Audit%20For%20The%20Kenya%20Towns%20Sustainable%20Water%20Supply%20And%20Sanitation%20Program-Central%20Rift%20Valley%20Cluster%20.pdf",
-   "tags": [
-    "Consultancy",
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-04"
-  },
-  {
-   "id": "GAA-d4cd3636",
-   "title": "State Department For Social Protection And Senior Citizen Affairs Request For Expression Of Interest Individual Technical Consultant to develop for a Full Stack Software for the Consolidated Cash Transfer Programme (CCTP)",
-   "entity": "State Department For Social Protection And Senior Citizen Affairs, Ministry of Labour and Social Protection",
-   "el": "Unknown",
-   "close": "2026-10-07T11:00:00+03:00",
-   "time_known": true,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-09/State%20Department%20For%20Social%20Protection%20And%20Senior%20Citizen%20Affairs%20Request%20For%20Expression%20Of%20Interest%20Individual%20Technical%20Consultant%20to%20develop%20for%20a%20Full%20Stack%20Software%20for%20the%20Consolidated%20Cash%20Transfer%20Programme%20%28CCTP%29%20.pdf",
-   "tags": [
-    "Consultancy"
-   ],
-   "first_seen": "2026-10-04"
-  },
-  {
-   "id": "GAA-10965edf",
-   "title": "State Department For Social Protection And Senior Citizen Affairs Request For Expression Of Interest Individual Technical Consultant For Enhanced Single Registry And Community Development",
-   "entity": "State Department For Social Protection And Senior Citizen Affairs, Ministry of Labour and Social Protection",
-   "el": "Unknown",
-   "close": "2026-10-07T11:00:00+03:00",
-   "time_known": true,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-09/State%20Department%20For%20Social%20Protection%20And%20Senior%20Citizen%20Affairs%20Request%20For%20Expression%20Of%20Interest%20Individual%20Technical%20Consultant%20For%20Enhanced%20Single%20Registry%20And%20Community%20Development%20.pdf",
-   "tags": [
-    "Consultancy"
-   ],
-   "first_seen": "2026-10-04"
-  },
   {
    "id": "GAA-1d4df14f",
    "title": "Kenya Medical Research Institute (KEMRI) Invitation to Tender",
