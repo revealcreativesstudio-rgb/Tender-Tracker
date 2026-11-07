@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-06T13:22+03:00",
+ "generated": "2026-11-07T12:36+03:00",
  "sources": {
   "GAA": {
-   "ok": true,
-   "count": 3612
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='gaa.go.ke', port=443): Max retries exceeded with url: /index.php/all-tenders (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1011)')))"
   }
  },
  "tenders": [
