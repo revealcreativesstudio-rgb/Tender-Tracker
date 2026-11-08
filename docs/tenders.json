@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T12:36+03:00",
+ "generated": "2026-11-08T12:51+03:00",
  "sources": {
   "GAA": {
    "ok": false,
@@ -7,22 +7,6 @@
   }
  },
  "tenders": [
-  {
-   "id": "GAA-1d4df14f",
-   "title": "Kenya Medical Research Institute (KEMRI) Invitation to Tender",
-   "entity": "Kenya Medical Research Institute (KEMRI)",
-   "el": "Unknown",
-   "close": "2026-10-09T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/%20Kenya%20Medical%20Research%20Institute%20%28KEMRI%29%20Invitation%20to%20Tender%20.pdf",
-   "tags": [
-    "Education",
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-06"
-  },
   {
    "id": "GAA-6fc0a20b",
    "title": "Teachers Service Commission Invitation to Tender",
