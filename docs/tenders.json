@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T13:45+03:00",
+ "generated": "2026-11-11T13:18+03:00",
  "sources": {
   "GAA": {
    "ok": false,
@@ -7,21 +7,6 @@
   }
  },
  "tenders": [
-  {
-   "id": "GAA-6fc0a20b",
-   "title": "Teachers Service Commission Invitation to Tender",
-   "entity": "Teachers Service Commission",
-   "el": "Open",
-   "close": "2026-10-12T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Teachers%20Service%20Commission%20Invitation%20to%20Tender%20.pdf",
-   "tags": [
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-07"
-  },
   {
    "id": "GAA-c28755a3",
    "title": "Kenya Medical Supplies Authority (KEMSA) Invitation to Tender",
