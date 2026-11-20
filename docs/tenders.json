@@ -1,58 +1,12 @@
 {
- "generated": "2026-11-19T14:06+03:00",
+ "generated": "2026-11-20T13:53+03:00",
  "sources": {
   "GAA": {
    "ok": true,
-   "count": 3615
+   "count": 3687
   }
  },
  "tenders": [
-  {
-   "id": "GAA-ee96cc65",
-   "title": "Nuclear Power and Energy Agency Invitation to Tender for Supply and Delivery of Utility Passenger Motor Vehicle",
-   "entity": "Nuclear Power and Energy Agency (NuPEA)",
-   "el": "Unknown",
-   "close": "2026-10-21T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Nuclear%20Power%20and%20Energy%20Agency%20Invitation%20to%20Tender%20for%20Supply%20and%20Delivery%20of%20Utility%20Passenger%20Motor%20Vehicle.pdf",
-   "tags": [
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-10"
-  },
-  {
-   "id": "GAA-bd9de267",
-   "title": "KRA Open Tender For Provision Of Fund Management Services",
-   "entity": "Kenya Revenue Authority (KRA)",
-   "el": "Unknown",
-   "close": "2026-10-21T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/KRA%20Open%20Tender%20For%20Provision%20Of%20Fund%20Management%20Services.pdf",
-   "tags": [
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-10"
-  },
-  {
-   "id": "GAA-bcac6879",
-   "title": "Kenya Forest Service Registration Of Suppliers & Service Providers For 2026/2027 – 2027/2028 Financial Years",
-   "entity": "Kenya Forest Service (KFS)",
-   "el": "Unknown",
-   "close": "2026-10-21T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Kenya%20Forest%20Service%20Registration%20Of%20Suppliers%20%26%20Service%20Providers%20For%202026%3A2027%20%E2%80%93%202027%3A2028%20Financial%20Years%20.pdf",
-   "tags": [
-    "Supplier registration",
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-10"
-  },
   {
    "id": "GAA-7d8c0aea",
    "title": "Kenya Airports Authority Tender Advertisement Notice",
@@ -581,6 +535,36 @@
    "first_seen": "2026-10-06"
   },
   {
+   "id": "GAA-5eab9474",
+   "title": "The Kenya National Commission for UNESCO Invitation to Tender for Provision for Group Personal Accident and Group Life Insurance Cover and Staff Medical (In/Out Patient) Insurance Cover",
+   "entity": "The Kenya National Commission for UNESCO(KNATCOM)",
+   "el": "Unknown",
+   "close": "2026-11-24T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/The%20Kenya%20National%20Commission%20for%20UNESCO%20Invitation%20to%20Tender%20for%20Provision%20for%20Group%20Personal%20Accident%20and%20Group%20Life%20Insurance%20Cover%20and%20Staff%20Medical%20%28In%3AOut%20Patient%29%20Insurance%20Cover%20.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "GAA-9b3a08f7",
+   "title": "Geothermal Development Company Limited Tender Notice",
+   "entity": "Geothermal Development Company Limited (GDC)",
+   "el": "Unknown",
+   "close": "2026-11-24T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Geothermal%20Development%20Company%20Limited%20Tender%20Notice.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
    "id": "GAA-5c5bba8b",
    "title": "Kenya Power Invitation to Tender for Provision of Guarding Services, Sub-Transmission Network Tools & Procurement of Liveline Rubber Goods",
    "entity": "Kenya Power",
@@ -594,6 +578,38 @@
     "Closing time not stated"
    ],
    "first_seen": "2026-10-24"
+  },
+  {
+   "id": "GAA-e40c64f6",
+   "title": "State Department for Irrigation Tender Notice for Individual Consultant for Commercial, Legal and Financial Advisory Services to the State Department for Irrigation",
+   "entity": "State Department for Irrigation, Ministry of Water, Sanitation And Irrigation",
+   "el": "Unknown",
+   "close": "2026-11-25T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/State%20Department%20for%20Irrigation%20Tender%20Notice%20for%20Individual%20Consultant%20for%20Commercial%2C%20Legal%20and%20Financial%20Advisory%20Services%20to%20the%20State%20Department%20for%20Irrigation.pdf",
+   "tags": [
+    "Consultancy",
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "GAA-7efcfdf3",
+   "title": "Kenya National Highways Authority Tender Notice Request for Proposal for the Management, Operation and Maintenance Services of Green park Terminus Pedestrian Underpass Road Facilities",
+   "entity": "Kenya National Highways Authority (KeNHA)",
+   "el": "Unknown",
+   "close": "2026-11-25T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/%20Kenya%20National%20Highways%20Authority%20Tender%20Notice%20Request%20for%20Proposal%20for%20the%20Management%2C%20Operation%20and%20Maintenance%20Services%20of%20Green%20park%20Terminus%20Pedestrian%20Underpass%20Road%20Facilities.pdf",
+   "tags": [
+    "Consultancy",
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
   },
   {
    "id": "GAA-513ed05d",
@@ -610,6 +626,206 @@
     "Closing time not stated"
    ],
    "first_seen": "2026-10-16"
+  },
+  {
+   "id": "GAA-c8ce1e34",
+   "title": "Office of the Registrar of Political Parties Open Tender Notice For Motor Vehicle",
+   "entity": "Office of the Registrar of Political Parties (ORPP)",
+   "el": "Unknown",
+   "close": "2026-11-30T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Office%20of%20the%20Registrar%20of%20Political%20Parties%20Open%20Tender%20Notice%20For%20Motor%20Vehicle%20.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "GAA-cde8740a",
+   "title": "National Council for Nomadic Education in Kenya Tender Notice for Registration of Supplier",
+   "entity": "National Council for Nomadic Education in Kenya (NACONEK)",
+   "el": "Unknown",
+   "close": "2026-12-01T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/National%20Council%20for%20Nomadic%20Education%20in%20Kenya%20Tender%20Notice%20for%20Registration%20of%20Supplier.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "GAA-6dde161b",
+   "title": "Nuclear Power and Energy Agency Invitation to Tender for Provision of Medical Insurance Cover for Staff",
+   "entity": "Nuclear Power and Energy Agency (NuPEA)",
+   "el": "Unknown",
+   "close": "2026-12-02T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Nuclear%20Power%20and%20Energy%20Agency%20Invitation%20to%20Tender%20for%20Provision%20of%20Medical%20Insurance%20Cover%20for%20Staff%20.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "GAA-905eea78",
+   "title": "ICTA Kenya Digital Economy Acceleration Project Request for Bids Non-Consulting Services for Provision of Automation Services for Marriage Registration for the Office of the Attorney General",
+   "entity": "Informations and Communications Technology Authority (ICTA)",
+   "el": "Unknown",
+   "close": "2026-12-02T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/%20ICTA%20Kenya%20Digital%20Economy%20Acceleration%20Project%20Request%20for%20Bids%20Non-Consulting%20Services%20for%20Provision%20of%20Automation%20Services%20for%20Marriage%20Registration%20for%20the%20Office%20of%20the%20Attorney%20General%20.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "GAA-e4d75c21",
+   "title": "Kengen Foundation Megawatt Cafe Tender Invitation for  of Kitchen and Restaurant Items and Required Services on a Two (2) Year Framework Contract",
+   "entity": "Megawatt Cafe - Kengen Foundation",
+   "el": "Unknown",
+   "close": "2026-12-03T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Kengen%20Foundation%20Megawatt%20Cafe%20Tender%20Invitation%20for%20%20of%20Kitchen%20and%20Restaurant%20Items%20and%20Required%20Services%20on%20a%20Two%20%282%29%20Year%20Framework%20Contract.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "GAA-1aefd2ce",
+   "title": "Intergovernmental Relations Technical Committee Invitation To Tender Provision Of Comprehensive Corporate Medical, Group Life Assurance And Work Injury Benefit Insurance Cover",
+   "entity": "Intergovernmental Relations Technical Committee (IGRTC)",
+   "el": "Unknown",
+   "close": "2026-12-03T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Intergovernmental%20Relations%20Technical%20Committee%20Invitation%20To%20Tender%20Provision%20Of%20Comprehensive%20Corporate%20Medical%2C%20Group%20Life%20Assurance%20And%20Work%20Injury%20Benefit%20Insurance%20Cover%20.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "GAA-13a91e30",
+   "title": "State Department for Higher Education Tender Notice for Proposed alterations and refurbishment Works for Marine and Civil Engineering Laboratory at Tom Mboya University and  alteration for Electronic and Electrical Department at Tharaka University",
+   "entity": "State Department for Higher Education",
+   "el": "Unknown",
+   "close": "2026-12-04T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/State%20Department%20for%20Higher%20Education%20for%20Proposed%20alterations%20and%20refurbishment%20Works%20for%20Marine%20and%20Civil%20Engineering%20Laboratory%20at%20Tom%20Mboya%20University%20and%20alteration%20for%20Electronic%20and%20Electrical%20Dept%20at%20Tharaka%20University.pdf",
+   "tags": [
+    "Education",
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "GAA-692252da",
+   "title": "State Department For Public Health And Professional Standards Request For Expressions Of Interest Consulting Services For Assistant Component 2 Coordinator 2 In The Building Resilient And Responsive Health Systems Project",
+   "entity": "State Department For Public Health And Professional Standards, Ministry of Health",
+   "el": "Unknown",
+   "close": "2026-12-07T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/State%20Department%20For%20Public%20Health%20And%20Professional%20Standards%20Request%20For%20Expressions%20Of%20Interest%20Consulting%20Services%20For%20Assistant%20Component%202%20Coordinator%202%20In%20the%20BREH%20Project%20.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "GAA-919641e9",
+   "title": "State Department For Public Health And Professional Standards Request For Expressions Of Interest Consulting Services For Component 2 Coordinator  In the BREHS Project",
+   "entity": "State Department For Public Health And Professional Standards, Ministry of Health",
+   "el": "Unknown",
+   "close": "2026-12-07T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/State%20Department%20For%20Public%20Health%20And%20Professional%20Standards%20Request%20For%20Expressions%20Of%20Interest%20Consulting%20Services%20For%20Component%202%20Coordinator%20%20In%20the%20BREHS%20Project%20.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "GAA-11e545e5",
+   "title": "Kenya Medical Supplies Authority Invitation to Tender Notice for Supply of TB Medicines, Microscopy Items and Microscopy Consumables",
+   "entity": "Kenya Medical Supplies Authority (KEMSA)",
+   "el": "Unknown",
+   "close": "2026-12-08T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Kenya%20Medical%20Supplies%20Authority%20Invitation%20to%20Tender%20Notice%20for%20Supply%20of%20TB%20Medicines%2C%20Microscopy%20Items%20and%20Microscopy%20Consumables.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "GAA-73b8ac4a",
+   "title": "ICTA Specific Procurement Notice-Request For Proposals Without Prequalification- Supply, Delivery, Integration, Support, Capacity Building and Maintenance Support of Hardware, Analyst Compute, SOC-Security Software and Technology Tools",
+   "entity": "Informations and Communications Technology Authority (ICTA)",
+   "el": "Unknown",
+   "close": "2027-01-07T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/ICTA%20Request%20For%20Proposals%20Without%20Prequalification%20for%20Supply%2C%20Delivery%2C%20Integration%2C%20Support%2C%20Capacity%20Building%20and%20Maintenance%20Support%20of%20Hardware%2C%20Analyst%20Compute%2C%20SOC-Security%20Software%20and%20Technology%20Tools.pdf",
+   "tags": [
+    "Supplier registration",
+    "Consultancy",
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "GAA-e3071dc9",
+   "title": "ICTA Kenya Digital Economy Acceleration Project (KDEAP) Specific Procurement Notice for Supply, Delivery, Installation, Configuration, and Commissioning of Four (4) Enterprise Bandwidth Managers (100G Capacity) and a High-Capacity Natting Router",
+   "entity": "Informations and Communications Technology Authority (ICTA)",
+   "el": "Unknown",
+   "close": "2027-01-11T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/ICTA%20Kenya%20Digital%20Economy%20Acceleration%20Project%20Specific%20Procurement%20Notice%20for%20Supply%2C%20Delivery%2C%20Installation%2C%20Configuration%2C%20and%20Commissioning%20of%204%20Enterprise%20Bandwidth%20Managers%20and%20a%20High-Capacity%20Natting%20Router%20.pdf",
+   "tags": [
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
+  },
+  {
+   "id": "GAA-17dec4c5",
+   "title": "ICTA Kenya Digital Economy Acceleration Project Specific Procurement Notice  Request For Proposals Without Prequalification-Government Electronic Document and Records Management System (GEDRMS) and Digitization of Manual Records in Six (6) Lot",
+   "entity": "Informations and Communications Technology Authority (ICTA)",
+   "el": "Unknown",
+   "close": "2027-01-12T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Government%20Electronic%20Document%20and%20Records%20Management%20System%20%28GEDRMS%29%20and%20Digitization%20of%20Manual%20Records%20in%20Six%20%286%29%20Lot.pdf",
+   "tags": [
+    "Supplier registration",
+    "Consultancy",
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-20"
   },
   {
    "id": "GAA-7a3397a0",
