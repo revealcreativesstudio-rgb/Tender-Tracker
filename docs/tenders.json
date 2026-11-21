@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T13:53+03:00",
+ "generated": "2026-11-21T13:38+03:00",
  "sources": {
   "GAA": {
    "ok": true,
@@ -7,69 +7,6 @@
   }
  },
  "tenders": [
-  {
-   "id": "GAA-7d8c0aea",
-   "title": "Kenya Airports Authority Tender Advertisement Notice",
-   "entity": "Kenya Airports Authority (KAA)",
-   "el": "Unknown",
-   "close": "2026-10-22T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Kenya%20Airports%20Authority%20Tender%20Advertisement%20Notice%20%20.pdf",
-   "tags": [
-    "Notice not read",
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": "GAA-e6801897",
-   "title": "State Department For Internal Security And National Administration County Commissioner, Marsabit County Tender Notice",
-   "entity": "State Department For Internal Security And National Administration County Commissioner, Marsabit County",
-   "el": "Unknown",
-   "close": "2026-10-22T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/State%20Department%20For%20Internal%20Security%20And%20National%20Administration%20County%20Commissioner%2C%20Marsabit%20County.pdf",
-   "tags": [
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-10"
-  },
-  {
-   "id": "GAA-1fda0bbf",
-   "title": "Lake Victoria South Water Works Development Agency Invitation for Pre-qualification for Construction of Dunga Water Intake, Raw Water Pumping Station, Water Treatment Plant and Associated Facilities in Kisumu, Kenya- Works Package 2 LOT 2",
-   "entity": "Lake Victoria South Water Works Development Agency",
-   "el": "Unknown",
-   "close": "2026-10-22T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-09/%20Lake%20Victoria%20South%20Water%20Works%20Development%20Agency%20Invitation%20for%20Pre-qualification%20for%20Construction%20of%20Dunga%20Water%20Intake%2C%20Raw%20Water%20Pumping%20Station%2C%20Water%20Treatment%20Plant%20and%20Associated%20Facilities%20in%20Kisumu.pdf",
-   "tags": [
-    "Supplier registration",
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-04"
-  },
-  {
-   "id": "GAA-b10cef54",
-   "title": "State Department for TVET Prequalification Of Consulting Services For Implementation Consultant For The Digitalization For Technical And Vocational Education And Training",
-   "entity": "Ministry of Education – State Department for Technical, Vocational Education and Training, Kenya",
-   "el": "Open",
-   "close": "2026-10-22T12:00:00+03:00",
-   "time_known": true,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-09/State%20Department%20for%20TVET%20Prequalification%20Of%20Consulting%20Services%20For%20Implementation%20Consultant%20For%20The%20Digitalization%20For%20Technical%20And%20Vocational%20Education%20And%20Training.pdf",
-   "tags": [
-    "Supplier registration",
-    "Consultancy"
-   ],
-   "first_seen": "2026-10-04"
-  },
   {
    "id": "GAA-d0e62129",
    "title": "Tanathi Water Works Development Agency Tender Invitation",
@@ -79,7 +16,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Tanathi%20Water%20Works%20Development%20Agency%20Tender%20Invitation.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Tanathi%20Water%20Works%20Development%20Agency%20Tender%20Invitation.pdf",
    "tags": [
     "Notice not read",
     "Closing time not stated"
@@ -95,7 +32,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/National%20Council%20For%20Nomadic%20Education%20In%20Kenya%20Consultancy%20Firm%20Services%20For%20Skills%20Development%20And%20Employment%20In%2012%20ASAL%20Counties%20In%20Kenya.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/National%20Council%20For%20Nomadic%20Education%20In%20Kenya%20Consultancy%20Firm%20Services%20For%20Skills%20Development%20And%20Employment%20In%2012%20ASAL%20Counties%20In%20Kenya.pdf",
    "tags": [
     "Consultancy",
     "Notice not read",
@@ -112,7 +49,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Kenya%20Railways%20Request%20For%20Expression%20Of%20Interest-Consulting%20Services%20Individual%20Consultant%20Selection.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Kenya%20Railways%20Request%20For%20Expression%20Of%20Interest-Consulting%20Services%20Individual%20Consultant%20Selection.pdf",
    "tags": [
     "Consultancy",
     "Closing time not stated"
@@ -128,7 +65,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Kenya%20Seed%20Company%20Invitation%20to%20Tender%20%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Kenya%20Seed%20Company%20Invitation%20to%20Tender%20%20.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -143,7 +80,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Consultancy%20Firm%20Services%20For%20Design%2C%20Compliance%20And%20Supervision%20Of%20Civil%20Works%20%28Learning%2C%20Safety%2C%20Retention%20And%20Clean%20Cooking%20Infrastructure%29%20In%2012%20ASAL%20Counties%20In%20Kenya%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Consultancy%20Firm%20Services%20For%20Design%2C%20Compliance%20And%20Supervision%20Of%20Civil%20Works%20%28Learning%2C%20Safety%2C%20Retention%20And%20Clean%20Cooking%20Infrastructure%29%20In%2012%20ASAL%20Counties%20In%20Kenya%20.pdf",
    "tags": [
     "Consultancy",
     "Notice not read",
@@ -160,7 +97,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Individual%20Consultant%20Services%20For%20Project%20Management%2C%20Sustainability%20And%20Institutional%20Capacity%20%28Support%20Services%20For%20Strengthening%20Institutional%20Capacity%20And%20Coordination%29%20In%2012%20ASAL%20Counties%20In%20Kenya%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Individual%20Consultant%20Services%20For%20Project%20Management%2C%20Sustainability%20And%20Institutional%20Capacity%20%28Support%20Services%20For%20Strengthening%20Institutional%20Capacity%20And%20Coordination%29%20In%2012%20ASAL%20Counties%20In%20Kenya%20.pdf",
    "tags": [
     "Consultancy",
     "Notice not read",
@@ -177,7 +114,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Consultancy%20Firm%20Services%20For%20Design%2C%20Compliance%20And%20Supervision%20Of%20Farming%2C%20Value%20Addition%20And%20Irrigation%20%28School%20Farms%20And%20Home-%20Grown%20Solutions%29%20In%2012%20ASAL%20Counties%20In%20Kenya%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Consultancy%20Firm%20Services%20For%20Design%2C%20Compliance%20And%20Supervision%20Of%20Farming%2C%20Value%20Addition%20And%20Irrigation%20%28School%20Farms%20And%20Home-%20Grown%20Solutions%29%20In%2012%20ASAL%20Counties%20In%20Kenya%20.pdf",
    "tags": [
     "Consultancy",
     "Education",
@@ -195,7 +132,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Individual%20Consultant%20Services%20for%20M%26E%20Of%20The%20Impressed%20Project%20Baseline%20Survey%2C%20M%26E%20Systems%20Strengthening%2C%20Mid-Term%20Review%20Support%20and%20End%20Of%20Project%20Evaluation%20In%2012%20ASAL%20Counties%20In%20Kenya%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Individual%20Consultant%20Services%20for%20M%26E%20Of%20The%20Impressed%20Project%20Baseline%20Survey%2C%20M%26E%20Systems%20Strengthening%2C%20Mid-Term%20Review%20Support%20and%20End%20Of%20Project%20Evaluation%20In%2012%20ASAL%20Counties%20In%20Kenya%20.pdf",
    "tags": [
     "Consultancy",
     "Notice not read",
@@ -212,7 +149,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Request%20for%20Expression%20of%20Interest%20for%20Integration%20and%20Implementation%20of%20Digital%20Literacy%20in%20the%20Competency%20Based%20Curriculum%20through%20Gender%20Inclusive%20Strategies.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Request%20for%20Expression%20of%20Interest%20for%20Integration%20and%20Implementation%20of%20Digital%20Literacy%20in%20the%20Competency%20Based%20Curriculum%20through%20Gender%20Inclusive%20Strategies.pdf",
    "tags": [
     "Consultancy",
     "Notice not read",
@@ -229,7 +166,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Request%20For%20Expressions%20Of%20Interest%20Consultancy%20Services%20For%20Road%20Safety%20Audit%2C%20Road%20Safety%20Sensitization%20and%20Road%20Safety%20Management%20Capacity%20Building%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Request%20For%20Expressions%20Of%20Interest%20Consultancy%20Services%20For%20Road%20Safety%20Audit%2C%20Road%20Safety%20Sensitization%20and%20Road%20Safety%20Management%20Capacity%20Building%20.pdf",
    "tags": [
     "Consultancy",
     "Notice not read",
@@ -246,7 +183,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-09/ICTA%20Specific%20Procurement%20Notice%20-%20Request%20for%20Bids%2C%20Framework%20Agreement%28s%29%20for%20Non-Consulting.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-09/ICTA%20Specific%20Procurement%20Notice%20-%20Request%20for%20Bids%2C%20Framework%20Agreement%28s%29%20for%20Non-Consulting.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -261,7 +198,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Kenya%20Power%20Invitation%20to%20Tender%20for%20Provision%20of%20AnnualSupport%20and%20Mainatnce%20Services%20for%20IBM%20Security%20Guardium%20Solutions%20and%20Registration%20of%20Suppliers%20for%20Provision%20of%20Various%20Goods%20%20for%20a%20Period%20of%202%20years%20in%20South%20Nyanza%20Region.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Kenya%20Power%20Invitation%20to%20Tender%20for%20Provision%20of%20AnnualSupport%20and%20Mainatnce%20Services%20for%20IBM%20Security%20Guardium%20Solutions%20and%20Registration%20of%20Suppliers%20for%20Provision%20of%20Various%20Goods%20%20for%20a%20Period%20of%202%20years%20in%20South%20Nyanza%20Region.pdf",
    "tags": [
     "Supplier registration",
     "Notice not read",
@@ -278,7 +215,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/The%20Digital%20Health%20Agency%20Tender%20Invitation%20for%20Framework%20Agreement%20for%20Supplying%2C%20Installing%2C%20Testing%20and%20Commissioning%20of%20Low%20Earth%20Orbit%20Satellite%20Solution.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/The%20Digital%20Health%20Agency%20Tender%20Invitation%20for%20Framework%20Agreement%20for%20Supplying%2C%20Installing%2C%20Testing%20and%20Commissioning%20of%20Low%20Earth%20Orbit%20Satellite%20Solution.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -293,7 +230,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Micro%20And%20Small%20Enterprises%20Authority%20Request%20For%20Expressions%20Of%20Interest%20Consulting%20Services%20For%20The%20Provision%20Of%20Business%20Development%20Service%20Cohort%203%264.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Micro%20And%20Small%20Enterprises%20Authority%20Request%20For%20Expressions%20Of%20Interest%20Consulting%20Services%20For%20The%20Provision%20Of%20Business%20Development%20Service%20Cohort%203%264.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -308,7 +245,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/The%20Judiciary%20Tender%20Notice%20Invitation%20for%20Proposed%20Completion%20of%20Voi%20Law%20Courts%20and%20Proposed%20Refurbishment%20of%20Judiciary%20Ex-%20ecutive%20Offices%20at%20Kenya%20National%20Library%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/The%20Judiciary%20Tender%20Notice%20Invitation%20for%20Proposed%20Completion%20of%20Voi%20Law%20Courts%20and%20Proposed%20Refurbishment%20of%20Judiciary%20Ex-%20ecutive%20Offices%20at%20Kenya%20National%20Library%20.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -323,7 +260,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Kenya%20Agricultural%20%26%20Livestock%20Research%20Organization%20Specific%20Procurement%20Notice%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Kenya%20Agricultural%20%26%20Livestock%20Research%20Organization%20Specific%20Procurement%20Notice%20.pdf",
    "tags": [
     "Notice not read",
     "Closing time not stated"
@@ -339,7 +276,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Procurement%20Notice%20for%20Provision%20of%20Group%20Medical%20Insurance%20Cover%20for%20Integrated%20Natural%20Resources%20Management%20Programme%20%28INReMP%29%20Staff.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Procurement%20Notice%20for%20Provision%20of%20Group%20Medical%20Insurance%20Cover%20for%20Integrated%20Natural%20Resources%20Management%20Programme%20%28INReMP%29%20Staff.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -354,7 +291,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-09/Request%20for%20Proposal%20Information%20Systems%20for%20Supply%2C%20Delivery%2C%20Installation%20and%20Commissioning%20of%20Wi-Fi%20Routers%20and%20Related%20Goods%20for%20600%20Universities%20and%20TVETs%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-09/Request%20for%20Proposal%20Information%20Systems%20for%20Supply%2C%20Delivery%2C%20Installation%20and%20Commissioning%20of%20Wi-Fi%20Routers%20and%20Related%20Goods%20for%20600%20Universities%20and%20TVETs%20.pdf",
    "tags": [
     "Consultancy",
     "Education",
@@ -371,7 +308,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Request%20for%20Proposal%20for%20outsourcing%20the%20Call%20Centre%20and%20Customer%20Care%20Services%20for%20the%20Affordable%20Housing%20Board.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Request%20for%20Proposal%20for%20outsourcing%20the%20Call%20Centre%20and%20Customer%20Care%20Services%20for%20the%20Affordable%20Housing%20Board.pdf",
    "tags": [
     "Consultancy",
     "Closing time not stated"
@@ -387,7 +324,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Affordable%20Housing%20Board%20Invitation%20to%20Tender%20Bids.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Affordable%20Housing%20Board%20Invitation%20to%20Tender%20Bids.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -402,7 +339,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Central%20Rift%20Valley%20Water%20Works%20Development%20Agency%20Tender%20Invitation%20for%20Construction%20of%20Dam%20Gravity%20Mains%20Treatment%20Works%20Pumping%20System%20and%20Solarization%20Storage%20and%20Distribution.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Central%20Rift%20Valley%20Water%20Works%20Development%20Agency%20Tender%20Invitation%20for%20Construction%20of%20Dam%20Gravity%20Mains%20Treatment%20Works%20Pumping%20System%20and%20Solarization%20Storage%20and%20Distribution.pdf",
    "tags": [
     "Notice not read",
     "Closing time not stated"
@@ -418,7 +355,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/ICTA%20Specific%20Procurement%20Notice%20%28SPN%29%20Request%20for%20Bids%20Small%20Works%20%28One%20Envelope%20Bidding%20Process%29%20Refurbishment%20Works%20for%20Huduma%20Centres%20in%20Borderland%20Areas%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/ICTA%20Specific%20Procurement%20Notice%20%28SPN%29%20Request%20for%20Bids%20Small%20Works%20%28One%20Envelope%20Bidding%20Process%29%20Refurbishment%20Works%20for%20Huduma%20Centres%20in%20Borderland%20Areas%20.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -433,7 +370,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Tender%20Notices%20for%20the%20County%20Commissioner%20Lamu-County_0.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/Tender%20Notices%20for%20the%20County%20Commissioner%20Lamu-County_0.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -448,7 +385,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/State%20Department%20For%20Devolution%20EOI%20for%20Individual%20Consultant-Individual%20Consultant-%20Program%20Implementation%20Officer%20KDSP%20II%20Key%20Result%20Area%201%20%28Sustainable%20Financing%20and%20Expenditure%20Management%29%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/State%20Department%20For%20Devolution%20EOI%20for%20Individual%20Consultant-Individual%20Consultant-%20Program%20Implementation%20Officer%20KDSP%20II%20Key%20Result%20Area%201%20%28Sustainable%20Financing%20and%20Expenditure%20Management%29%20.pdf",
    "tags": [
     "Consultancy",
     "Closing time not stated"
@@ -464,7 +401,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/State%20Department%20For%20Devolution%20EOI%20for%20Individual%20Consultant-%20Program%20Implementation%20Officer%20KDSP%20II%20Key%20Result%20Area%202%20%28Intergovernmental%20Coordination%2C%20Institutional%20Performance%2C%20and%20Human%20Resource%20Management.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/State%20Department%20For%20Devolution%20EOI%20for%20Individual%20Consultant-%20Program%20Implementation%20Officer%20KDSP%20II%20Key%20Result%20Area%202%20%28Intergovernmental%20Coordination%2C%20Institutional%20Performance%2C%20and%20Human%20Resource%20Management.pdf",
    "tags": [
     "Consultancy",
     "Closing time not stated"
@@ -480,7 +417,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/State%20Department%20For%20Devolution%20Request%20For%20Expression%20Of%20Interest%20for%20Individual%20Consultant-Program%20Implementation%20Officer%20KDSP%20II%20Key%20Result%20Area%203%20Over-%20sight%2C%20Participation%20and%20Accountability.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/State%20Department%20For%20Devolution%20Request%20For%20Expression%20Of%20Interest%20for%20Individual%20Consultant-Program%20Implementation%20Officer%20KDSP%20II%20Key%20Result%20Area%203%20Over-%20sight%2C%20Participation%20and%20Accountability.pdf",
    "tags": [
     "Consultancy",
     "Closing time not stated"
@@ -496,7 +433,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/State%20Department%20For%20Devolution%20Request%20For%20Expression%20Of%20Interest%20Individual%20Consultant%20Selection%20To%20Design%20A%20Model%20For%20County%20Assembly%20Fiscal%20Bureau%20And%20Development%20Of%20a%20Framework%20And%20Guidelines%20On%20County%20Fiscal%20Bureaus%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/State%20Department%20For%20Devolution%20Request%20For%20Expression%20Of%20Interest%20Individual%20Consultant%20Selection%20To%20Design%20A%20Model%20For%20County%20Assembly%20Fiscal%20Bureau%20And%20Development%20Of%20a%20Framework%20And%20Guidelines%20On%20County%20Fiscal%20Bureaus%20.pdf",
    "tags": [
     "Consultancy",
     "Closing time not stated"
@@ -512,7 +449,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/State%20Department%20For%20Devolution%20Request%20For%20Expression%20Of%20Interest%20Individual%20Consultant%20Selection%20To%20%20Design%20And%20Develop%20A%20County%20Assembly%20Resolution%20Tracking%20Tool%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/State%20Department%20For%20Devolution%20Request%20For%20Expression%20Of%20Interest%20Individual%20Consultant%20Selection%20To%20%20Design%20And%20Develop%20A%20County%20Assembly%20Resolution%20Tracking%20Tool%20.pdf",
    "tags": [
     "Consultancy",
     "Closing time not stated"
@@ -528,7 +465,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/ICTA%20Specific%20Procurement%20Notice%20%28SPN%29%20Request%20for%20Bids%20Supply%2C%20Delivery%2C%20Installation%20and%20Commissioning%20of%20300%20Public%20Wifi%20Hots%20Spot%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/ICTA%20Specific%20Procurement%20Notice%20%28SPN%29%20Request%20for%20Bids%20Supply%2C%20Delivery%2C%20Installation%20and%20Commissioning%20of%20300%20Public%20Wifi%20Hots%20Spot%20.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -543,7 +480,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/The%20Kenya%20National%20Commission%20for%20UNESCO%20Invitation%20to%20Tender%20for%20Provision%20for%20Group%20Personal%20Accident%20and%20Group%20Life%20Insurance%20Cover%20and%20Staff%20Medical%20%28In%3AOut%20Patient%29%20Insurance%20Cover%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/The%20Kenya%20National%20Commission%20for%20UNESCO%20Invitation%20to%20Tender%20for%20Provision%20for%20Group%20Personal%20Accident%20and%20Group%20Life%20Insurance%20Cover%20and%20Staff%20Medical%20%28In%3AOut%20Patient%29%20Insurance%20Cover%20.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -558,7 +495,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Geothermal%20Development%20Company%20Limited%20Tender%20Notice.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/Geothermal%20Development%20Company%20Limited%20Tender%20Notice.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -573,7 +510,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Kenya%20Power%20Invitation%20to%20Tender%20for%20Provision%20of%20Guarding%20Services%2C%20Sub-Transmission%20Network%20Tools%20%26%20Procurement%20of%20Liveline%20Rubber%20Goods.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Kenya%20Power%20Invitation%20to%20Tender%20for%20Provision%20of%20Guarding%20Services%2C%20Sub-Transmission%20Network%20Tools%20%26%20Procurement%20of%20Liveline%20Rubber%20Goods.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -588,7 +525,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/State%20Department%20for%20Irrigation%20Tender%20Notice%20for%20Individual%20Consultant%20for%20Commercial%2C%20Legal%20and%20Financial%20Advisory%20Services%20to%20the%20State%20Department%20for%20Irrigation.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/State%20Department%20for%20Irrigation%20Tender%20Notice%20for%20Individual%20Consultant%20for%20Commercial%2C%20Legal%20and%20Financial%20Advisory%20Services%20to%20the%20State%20Department%20for%20Irrigation.pdf",
    "tags": [
     "Consultancy",
     "Closing time not stated"
@@ -604,7 +541,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/%20Kenya%20National%20Highways%20Authority%20Tender%20Notice%20Request%20for%20Proposal%20for%20the%20Management%2C%20Operation%20and%20Maintenance%20Services%20of%20Green%20park%20Terminus%20Pedestrian%20Underpass%20Road%20Facilities.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/%20Kenya%20National%20Highways%20Authority%20Tender%20Notice%20Request%20for%20Proposal%20for%20the%20Management%2C%20Operation%20and%20Maintenance%20Services%20of%20Green%20park%20Terminus%20Pedestrian%20Underpass%20Road%20Facilities.pdf",
    "tags": [
     "Consultancy",
     "Closing time not stated"
@@ -620,7 +557,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/KeNHA%20Specific%20Procurement%20for%20Upgrading%20to%20Bitumen%20Standards%20of%20Selected%20Link%20Roads%20and%20Construction%20of%202%20Footbridges%20within%20Meru%20Town_0.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/KeNHA%20Specific%20Procurement%20for%20Upgrading%20to%20Bitumen%20Standards%20of%20Selected%20Link%20Roads%20and%20Construction%20of%202%20Footbridges%20within%20Meru%20Town_0.pdf",
    "tags": [
     "Notice not read",
     "Closing time not stated"
@@ -636,7 +573,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Office%20of%20the%20Registrar%20of%20Political%20Parties%20Open%20Tender%20Notice%20For%20Motor%20Vehicle%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/Office%20of%20the%20Registrar%20of%20Political%20Parties%20Open%20Tender%20Notice%20For%20Motor%20Vehicle%20.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -651,7 +588,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/National%20Council%20for%20Nomadic%20Education%20in%20Kenya%20Tender%20Notice%20for%20Registration%20of%20Supplier.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/National%20Council%20for%20Nomadic%20Education%20in%20Kenya%20Tender%20Notice%20for%20Registration%20of%20Supplier.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -666,7 +603,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Nuclear%20Power%20and%20Energy%20Agency%20Invitation%20to%20Tender%20for%20Provision%20of%20Medical%20Insurance%20Cover%20for%20Staff%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/Nuclear%20Power%20and%20Energy%20Agency%20Invitation%20to%20Tender%20for%20Provision%20of%20Medical%20Insurance%20Cover%20for%20Staff%20.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -681,7 +618,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/%20ICTA%20Kenya%20Digital%20Economy%20Acceleration%20Project%20Request%20for%20Bids%20Non-Consulting%20Services%20for%20Provision%20of%20Automation%20Services%20for%20Marriage%20Registration%20for%20the%20Office%20of%20the%20Attorney%20General%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/%20ICTA%20Kenya%20Digital%20Economy%20Acceleration%20Project%20Request%20for%20Bids%20Non-Consulting%20Services%20for%20Provision%20of%20Automation%20Services%20for%20Marriage%20Registration%20for%20the%20Office%20of%20the%20Attorney%20General%20.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -696,7 +633,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Kengen%20Foundation%20Megawatt%20Cafe%20Tender%20Invitation%20for%20%20of%20Kitchen%20and%20Restaurant%20Items%20and%20Required%20Services%20on%20a%20Two%20%282%29%20Year%20Framework%20Contract.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/Kengen%20Foundation%20Megawatt%20Cafe%20Tender%20Invitation%20for%20%20of%20Kitchen%20and%20Restaurant%20Items%20and%20Required%20Services%20on%20a%20Two%20%282%29%20Year%20Framework%20Contract.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -711,7 +648,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Intergovernmental%20Relations%20Technical%20Committee%20Invitation%20To%20Tender%20Provision%20Of%20Comprehensive%20Corporate%20Medical%2C%20Group%20Life%20Assurance%20And%20Work%20Injury%20Benefit%20Insurance%20Cover%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/Intergovernmental%20Relations%20Technical%20Committee%20Invitation%20To%20Tender%20Provision%20Of%20Comprehensive%20Corporate%20Medical%2C%20Group%20Life%20Assurance%20And%20Work%20Injury%20Benefit%20Insurance%20Cover%20.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -726,7 +663,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/State%20Department%20for%20Higher%20Education%20for%20Proposed%20alterations%20and%20refurbishment%20Works%20for%20Marine%20and%20Civil%20Engineering%20Laboratory%20at%20Tom%20Mboya%20University%20and%20alteration%20for%20Electronic%20and%20Electrical%20Dept%20at%20Tharaka%20University.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/State%20Department%20for%20Higher%20Education%20for%20Proposed%20alterations%20and%20refurbishment%20Works%20for%20Marine%20and%20Civil%20Engineering%20Laboratory%20at%20Tom%20Mboya%20University%20and%20alteration%20for%20Electronic%20and%20Electrical%20Dept%20at%20Tharaka%20University.pdf",
    "tags": [
     "Education",
     "Closing time not stated"
@@ -742,7 +679,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/State%20Department%20For%20Public%20Health%20And%20Professional%20Standards%20Request%20For%20Expressions%20Of%20Interest%20Consulting%20Services%20For%20Assistant%20Component%202%20Coordinator%202%20In%20the%20BREH%20Project%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/State%20Department%20For%20Public%20Health%20And%20Professional%20Standards%20Request%20For%20Expressions%20Of%20Interest%20Consulting%20Services%20For%20Assistant%20Component%202%20Coordinator%202%20In%20the%20BREH%20Project%20.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -757,7 +694,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/State%20Department%20For%20Public%20Health%20And%20Professional%20Standards%20Request%20For%20Expressions%20Of%20Interest%20Consulting%20Services%20For%20Component%202%20Coordinator%20%20In%20the%20BREHS%20Project%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/State%20Department%20For%20Public%20Health%20And%20Professional%20Standards%20Request%20For%20Expressions%20Of%20Interest%20Consulting%20Services%20For%20Component%202%20Coordinator%20%20In%20the%20BREHS%20Project%20.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -772,7 +709,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Kenya%20Medical%20Supplies%20Authority%20Invitation%20to%20Tender%20Notice%20for%20Supply%20of%20TB%20Medicines%2C%20Microscopy%20Items%20and%20Microscopy%20Consumables.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/Kenya%20Medical%20Supplies%20Authority%20Invitation%20to%20Tender%20Notice%20for%20Supply%20of%20TB%20Medicines%2C%20Microscopy%20Items%20and%20Microscopy%20Consumables.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -787,7 +724,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/ICTA%20Request%20For%20Proposals%20Without%20Prequalification%20for%20Supply%2C%20Delivery%2C%20Integration%2C%20Support%2C%20Capacity%20Building%20and%20Maintenance%20Support%20of%20Hardware%2C%20Analyst%20Compute%2C%20SOC-Security%20Software%20and%20Technology%20Tools.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/ICTA%20Request%20For%20Proposals%20Without%20Prequalification%20for%20Supply%2C%20Delivery%2C%20Integration%2C%20Support%2C%20Capacity%20Building%20and%20Maintenance%20Support%20of%20Hardware%2C%20Analyst%20Compute%2C%20SOC-Security%20Software%20and%20Technology%20Tools.pdf",
    "tags": [
     "Supplier registration",
     "Consultancy",
@@ -804,7 +741,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/ICTA%20Kenya%20Digital%20Economy%20Acceleration%20Project%20Specific%20Procurement%20Notice%20for%20Supply%2C%20Delivery%2C%20Installation%2C%20Configuration%2C%20and%20Commissioning%20of%204%20Enterprise%20Bandwidth%20Managers%20and%20a%20High-Capacity%20Natting%20Router%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/ICTA%20Kenya%20Digital%20Economy%20Acceleration%20Project%20Specific%20Procurement%20Notice%20for%20Supply%2C%20Delivery%2C%20Installation%2C%20Configuration%2C%20and%20Commissioning%20of%204%20Enterprise%20Bandwidth%20Managers%20and%20a%20High-Capacity%20Natting%20Router%20.pdf",
    "tags": [
     "Closing time not stated"
    ],
@@ -819,7 +756,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-11/Government%20Electronic%20Document%20and%20Records%20Management%20System%20%28GEDRMS%29%20and%20Digitization%20of%20Manual%20Records%20in%20Six%20%286%29%20Lot.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-11/Government%20Electronic%20Document%20and%20Records%20Management%20System%20%28GEDRMS%29%20and%20Digitization%20of%20Manual%20Records%20in%20Six%20%286%29%20Lot.pdf",
    "tags": [
     "Supplier registration",
     "Consultancy",
@@ -836,7 +773,7 @@
    "time_known": false,
    "src": "GAA",
    "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Athi%20Water%20Works%20Development%20Agency%20Invitation%20For%20Bids%20For%20Construction%20Works%20For%20Northern%20Collector%20Tunnel%20Last%20Mile%20Water%20Supply%20Works%20.pdf",
+   "notice": "https://gaa.go.ke/index.php/sites/default/files/2026-10/Athi%20Water%20Works%20Development%20Agency%20Invitation%20For%20Bids%20For%20Construction%20Works%20For%20Northern%20Collector%20Tunnel%20Last%20Mile%20Water%20Supply%20Works%20.pdf",
    "tags": [
     "Closing time not stated"
    ],
