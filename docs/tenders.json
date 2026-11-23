@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-22T13:42+03:00",
+ "generated": "2026-11-23T14:46+03:00",
  "sources": {
   "GAA": {
    "ok": false,
-   "error": "500 Server Error: Internal Server Error for url: https://gaa.go.ke/index.php/all-tenders?page=1"
+   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   }
  },
  "tenders": [
