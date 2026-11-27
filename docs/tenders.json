@@ -1,113 +1,12 @@
 {
- "generated": "2026-11-26T14:52+03:00",
+ "generated": "2026-11-27T14:45+03:00",
  "sources": {
   "GAA": {
    "ok": true,
-   "count": 3714
+   "count": 3717
   }
  },
  "tenders": [
-  {
-   "id": "GAA-0a2e3ed0",
-   "title": "Kenya Seed Company Invitation to Tender",
-   "entity": "Kenya Seed Company Limited",
-   "el": "Unknown",
-   "close": "2026-10-28T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Kenya%20Seed%20Company%20Invitation%20to%20Tender%20%20.pdf",
-   "tags": [
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-24"
-  },
-  {
-   "id": "GAA-6e530e8a",
-   "title": "Consultancy Firm Services For Design, Compliance And Supervision Of Civil Works (Learning, Safety, Retention And Clean Cooking Infrastructure) In 12 ASAL Counties In Kenya",
-   "entity": "National Council for Nomadic Education in Kenya (NACONEK)",
-   "el": "Unknown",
-   "close": "2026-10-28T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Consultancy%20Firm%20Services%20For%20Design%2C%20Compliance%20And%20Supervision%20Of%20Civil%20Works%20%28Learning%2C%20Safety%2C%20Retention%20And%20Clean%20Cooking%20Infrastructure%29%20In%2012%20ASAL%20Counties%20In%20Kenya%20.pdf",
-   "tags": [
-    "Consultancy",
-    "Notice not read",
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": "GAA-c347c14c",
-   "title": "Individual Consultant Services For Project Management, Sustainability And Institutional Capacity (Support Services For Strengthening Institutional Capacity And Coordination) In 12 ASAL Counties In Kenya",
-   "entity": "National Council for Nomadic Education in Kenya (NACONEK)",
-   "el": "Unknown",
-   "close": "2026-10-28T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Individual%20Consultant%20Services%20For%20Project%20Management%2C%20Sustainability%20And%20Institutional%20Capacity%20%28Support%20Services%20For%20Strengthening%20Institutional%20Capacity%20And%20Coordination%29%20In%2012%20ASAL%20Counties%20In%20Kenya%20.pdf",
-   "tags": [
-    "Consultancy",
-    "Notice not read",
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": "GAA-f5173c90",
-   "title": "Consultancy Firm Services For Design, Compliance And Supervision Of Farming, Value Addition And Irrigation (School Farms And Home- Grown Solutions) In 12 ASAL Counties In Kenya",
-   "entity": "National Council for Nomadic Education in Kenya (NACONEK)",
-   "el": "Unknown",
-   "close": "2026-10-28T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Consultancy%20Firm%20Services%20For%20Design%2C%20Compliance%20And%20Supervision%20Of%20Farming%2C%20Value%20Addition%20And%20Irrigation%20%28School%20Farms%20And%20Home-%20Grown%20Solutions%29%20In%2012%20ASAL%20Counties%20In%20Kenya%20.pdf",
-   "tags": [
-    "Consultancy",
-    "Education",
-    "Notice not read",
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": "GAA-95969f9d",
-   "title": "Individual Consultant Services for M&E Of The Impressed Project Baseline Survey, M&E Systems Strengthening, Mid-Term Review Support and End Of Project Evaluation In 12 ASAL Counties In Kenya",
-   "entity": "National Council for Nomadic Education in Kenya (NACONEK)",
-   "el": "Unknown",
-   "close": "2026-10-28T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Individual%20Consultant%20Services%20for%20M%26E%20Of%20The%20Impressed%20Project%20Baseline%20Survey%2C%20M%26E%20Systems%20Strengthening%2C%20Mid-Term%20Review%20Support%20and%20End%20Of%20Project%20Evaluation%20In%2012%20ASAL%20Counties%20In%20Kenya%20.pdf",
-   "tags": [
-    "Consultancy",
-    "Notice not read",
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-16"
-  },
-  {
-   "id": "GAA-3c8a7b02",
-   "title": "Request for Expression of Interest for Integration and Implementation of Digital Literacy in the Competency Based Curriculum through Gender Inclusive Strategies",
-   "entity": "Informations and Communications Technology Authority (ICTA)",
-   "el": "Unknown",
-   "close": "2026-10-28T10:00:00+03:00",
-   "time_known": false,
-   "src": "GAA",
-   "url": "https://gaa.go.ke/index.php/all-tenders",
-   "notice": "https://gaa.go.ke/sites/default/files/2026-10/Request%20for%20Expression%20of%20Interest%20for%20Integration%20and%20Implementation%20of%20Digital%20Literacy%20in%20the%20Competency%20Based%20Curriculum%20through%20Gender%20Inclusive%20Strategies.pdf",
-   "tags": [
-    "Consultancy",
-    "Notice not read",
-    "Closing time not stated"
-   ],
-   "first_seen": "2026-10-16"
-  },
   {
    "id": "GAA-409348f1",
    "title": "Request For Expressions Of Interest Consultancy Services For Road Safety Audit, Road Safety Sensitization and Road Safety Management Capacity Building",
@@ -725,6 +624,22 @@
     "Closing time not stated"
    ],
    "first_seen": "2026-11-26"
+  },
+  {
+   "id": "GAA-debb38ce",
+   "title": "ST. Mary’s Girls Secondary School-Thigio Tender notice 2026",
+   "entity": "ST. Mary’s Girls Secondary School-Thigio",
+   "el": "Unknown",
+   "close": "2026-12-15T10:00:00+03:00",
+   "time_known": false,
+   "src": "GAA",
+   "url": "https://gaa.go.ke/index.php/all-tenders",
+   "notice": "https://gaa.go.ke/sites/default/files/2026-11/ST.%20Mary%E2%80%99s%20Girls%20Secondary%20School-Thigio%20%20Tender%20notice%202026.pdf",
+   "tags": [
+    "Education",
+    "Closing time not stated"
+   ],
+   "first_seen": "2026-11-27"
   },
   {
    "id": "GAA-73b8ac4a",
